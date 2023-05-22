@@ -24,4 +24,4 @@ heroku stack:set container
 git push heroku main
 ```
 
-[Referece](https://www.youtube.com/watch?v=h5wLuVDr0oc) by AssembleyAI 
+[Referece](https://www.youtube.com/watch?v=h5wLuVDr0oc) :- AssembleyAI 
